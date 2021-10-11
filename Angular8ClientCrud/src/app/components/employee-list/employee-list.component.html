@@ -1,0 +1,62 @@
+<div class="list row">
+    <div class="col-md-8">
+      <div class="input-group mb-3">
+
+        <div class="input-group-append">
+
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <h4>Employees List</h4>
+      <ul class="list-group">
+        <li
+          class="list-group-item"
+          *ngFor="let employee of employees; let i = index"
+          [class.active]="i == currentIndex"
+          (click)="setActiveEmployee(employee, i)"
+        >
+          {{ employee.fullname }}
+        </li>
+      </ul>
+  
+
+    </div>
+    <div class="col-md-6">
+      <div *ngIf="currentEmployee">
+        <h4>Employee</h4>
+        <div>
+          <label><strong>Id:</strong></label> {{ currentEmployee.employeeId }}
+        </div>
+        <div>
+          <label><strong>Fullname:</strong></label> {{ currentEmployee.fullname }}
+        </div>
+        <div>
+          <label><strong>JobTitle:</strong></label> {{ currentEmployee.jobTitle }}
+        </div>
+        <div>
+          <label><strong>Salary:</strong></label>
+          {{ currentEmployee.salary }}
+        </div>
+        <div>
+          <label><strong>Department Id:</strong></label>
+          {{ currentEmployee.departmentId }}
+        </div>
+        <div>
+          <label><strong>Bonus:</strong></label> {{ currentEmployee.bonus }}
+        </div>
+      
+
+        <a href="employees/{{ currentEmployee.employeeId }}">
+          <button type="submit" class="btn btn-info">Add TotalBonuspool & store Employee Bonus</button>
+        </a>    
+  
+      <div *ngIf="!currentEmployee">
+        <br />
+        <p>Please Click on a Employee to edit the item ...</p>
+      </div>
+    </div>
+  </div>
+
+
+  

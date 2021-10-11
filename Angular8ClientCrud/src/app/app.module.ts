@@ -5,16 +5,16 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { AddTutorialComponent } from './components/add-tutorial/add-tutorial.component';
-import { TutorialDetailsComponent } from './components/tutorial-details/tutorial-details.component';
-import { TutorialsListComponent } from './components/tutorials-list/tutorials-list.component';
+import { EmployeeListComponent } from './components/employee-list/employee-list.component';
+import { EmployeeBonusComponent } from './components/employee-bonus/employee-bonus.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
-    AddTutorialComponent,
-    TutorialDetailsComponent,
-    TutorialsListComponent
+    EmployeeListComponent,
+    EmployeeBonusComponent
+ 
   ],
   imports: [
     BrowserModule,

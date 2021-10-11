@@ -37,8 +37,8 @@ namespace BackendApplication
 
             services.AddMvc();
 
-            services.AddDbContext<TutorialContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("TutorialContext")));
+            services.AddDbContext<EmployeeContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("EmployeeContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

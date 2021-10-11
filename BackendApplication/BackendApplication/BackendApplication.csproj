@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Compile Remove="Controllers\MovesController.cs" />
+    <Compile Remove="Controllers\TutorialsController.cs" />
     <Compile Remove="Data\MoveContext.cs" />
     <Compile Remove="Models\Move.cs" />
   </ItemGroup>

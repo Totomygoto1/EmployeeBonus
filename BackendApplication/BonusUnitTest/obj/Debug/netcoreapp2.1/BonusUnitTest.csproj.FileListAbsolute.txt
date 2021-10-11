@@ -1,0 +1,17 @@
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\bin\Debug\netcoreapp2.1\BonusUnitTest.deps.json
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\bin\Debug\netcoreapp2.1\BonusUnitTest.runtimeconfig.json
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\bin\Debug\netcoreapp2.1\BonusUnitTest.runtimeconfig.dev.json
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\bin\Debug\netcoreapp2.1\BonusUnitTest.dll
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\bin\Debug\netcoreapp2.1\BonusUnitTest.pdb
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\obj\Debug\netcoreapp2.1\BonusUnitTest.csprojAssemblyReference.cache
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\obj\Debug\netcoreapp2.1\BonusUnitTest.csproj.CoreCompileInputs.cache
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\obj\Debug\netcoreapp2.1\BonusUnitTest.AssemblyInfoInputs.cache
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\obj\Debug\netcoreapp2.1\BonusUnitTest.AssemblyInfo.cs
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\obj\Debug\netcoreapp2.1\BonusUnitTest.dll
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\obj\Debug\netcoreapp2.1\BonusUnitTest.pdb
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\bin\Debug\netcoreapp2.1\BackendApplication.dll
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\bin\Debug\netcoreapp2.1\BackendApplication.pdb
+E:\ProgrammingTutorials\BackendApplication\BonusUnitTest\obj\Debug\netcoreapp2.1\BonusUnitTest.csproj.CopyComplete

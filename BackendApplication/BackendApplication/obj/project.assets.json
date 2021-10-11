@@ -13648,11 +13648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Katarina\\source\\repos\\Tutorial\\BackendApplication\\BackendApplication\\BackendApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Katarina\\EmployeeBonus\\BackendApplication\\BackendApplication\\BackendApplication.csproj",
       "projectName": "BackendApplication",
-      "projectPath": "C:\\Users\\Katarina\\source\\repos\\Tutorial\\BackendApplication\\BackendApplication\\BackendApplication.csproj",
+      "projectPath": "C:\\Users\\Katarina\\EmployeeBonus\\BackendApplication\\BackendApplication\\BackendApplication.csproj",
       "packagesPath": "C:\\Users\\Katarina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Katarina\\source\\repos\\Tutorial\\BackendApplication\\BackendApplication\\obj\\",
+      "outputPath": "C:\\Users\\Katarina\\EmployeeBonus\\BackendApplication\\BackendApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
